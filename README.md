@@ -1,3 +1,10 @@
+The code in this repository is work done together at the UChicago Tech Team. It has been copied over to this repository as most collaborative code was done on one computer. This is here for future reference, or in-case the TechTeam decides to take down their work. 
+
+Our code done for this project is being used by LUCHA, to help Latin Chicago residents find their health and wellness resources hub. 
+
+https://lucha.org/health-wellness-resource-hub/
+
+
 # Fusion Table Searchable Map Template
 You want to put your data on a searchable, filterable map. This is a free, open source template to help you do it.
 
